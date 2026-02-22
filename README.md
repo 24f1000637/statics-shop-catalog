@@ -1,0 +1,1 @@
+# statics-shop-catalog
